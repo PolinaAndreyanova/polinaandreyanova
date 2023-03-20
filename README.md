@@ -2,6 +2,5 @@
 <h3 align="center">Студентка факультета компьютерных технологий и защиты информации</h3>
 
 <h2>Мой стек</h2>
-<ul>
-  <li>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</li>
-</ul>
+
+[HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
