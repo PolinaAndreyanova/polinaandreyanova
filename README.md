@@ -1,5 +1,5 @@
 <h1 align="center">Привет, меня зовут Полина!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<p align="center">Студентка факультета компьютерных технологий и защиты информации</p>
+<p align="center">Front-end разработчик и студентка факультета компьютерных технологий и защиты информации</p>
 
 <h3>Мой стек:</h3>
 <div display="flex" flex-direction="row">
